@@ -25,6 +25,6 @@
     "not dead"
   ],
   "devDependencies": {
-    "file-loader": "^4.3.0"
+    "file-loader": "^6.1.0"
   }
 }
